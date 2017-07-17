@@ -1,0 +1,53 @@
+{
+	"name": "chanstats",
+	"version": "0.0.1",
+	"description": "ya know",
+	"main": "main.js",
+	"scripts": {
+		"dev": "NODE_ENV=development webpack --color --hide-modules",
+		"build": "NODE_ENV=production webpack --color --hide-modules --display-optimization-bailout",
+		"dev-server": "NODE_ENV=development webpack-dev-server --compress --color"
+	},
+	"author": "Conroy",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "x",
+		"bulma": "^0.4.3",
+		"express": "x",
+		"foundation-sites": "x",
+		"graceful-fs": "x",
+		"helmet": "x",
+		"lodash": "x",
+		"lowdb": "x",
+		"moment": "x",
+		"nord": "x",
+		"normalize.css": "x",
+		"open-color": "x",
+		"socket.io": "x",
+		"socket.io-client": "x",
+		"vue": "^2.4.1",
+		"vue-template-compiler": "^2.4.1"
+	},
+	"devDependencies": {
+		"babel-loader": "x",
+		"babel-preset-env": "x",
+		"babili-webpack-plugin": "x",
+		"clean-webpack-plugin": "x",
+		"copy-webpack-plugin": "x",
+		"css-loader": "x",
+		"extract-text-webpack-plugin": "x",
+		"file-loader": "x",
+		"html-webpack-plugin": "x",
+		"node-sass": "x",
+		"optimize-css-assets-webpack-plugin": "x",
+		"purify-css": "^1.2.6",
+		"purifycss-webpack": "x",
+		"sass-loader": "x",
+		"style-loader": "x",
+		"url-loader": "x",
+		"vue-loader": "^13.0.2",
+		"webpack": "x",
+		"webpack-dev-server": "2.4.5",
+		"webpack-merge": "x"
+	}
+}

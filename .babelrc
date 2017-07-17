@@ -1,0 +1,13 @@
+{
+	//"plugins": ["transform-runtime"],
+	"presets": [
+		["env", {
+			"targets": {
+				"browsers": ["last 2 versions", "not ie < 11"]
+				//"firefox": 54
+			},
+			"debug": true,
+			"modules": false
+		}]
+	]
+}

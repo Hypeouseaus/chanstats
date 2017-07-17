@@ -1,0 +1,41 @@
+//$family-sans-serif: "Ubuntu";
+//$family-primary: monospace;
+//@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Roboto:300,400,500');
+//@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans:300,400');
+
+/*
+$family-sans-serif: "Open Sans",
+"Helvetica Neue",
+sans-serif;
+*/
+
+$family-sans-serif: BlinkMacSystemFont,
+-apple-system,
+"Segoe UI",
+"Roboto",
+"Oxygen",
+"Ubuntu",
+"Cantarell",
+"Fira Sans",
+"Droid Sans",
+"Helvetica Neue",
+"Helvetica",
+"Arial",
+sans-serif;
+//$render-mode: optimizeSpeed;
+@import "~bulma/bulma.sass";
+
+/*
+ @import "~bulma/sass/utilities/_all.sass";
+ @import "~bulma/sass/base/_all.sass";
+ @import "~bulma/sass/elements/button.sass";
+ @import "~bulma/sass/elements/form.sass";
+ @import "~bulma/sass/elements/icon.sass";
+ @import "~bulma/sass/elements/image.sass";
+ @import "~bulma/sass/elements/other.sass";
+ @import "~bulma/sass/elements/table.sass";
+ @import "~bulma/sass/elements/title.sass";
+ @import "~bulma/sass/components/nav.sass";
+ @import "~bulma/sass/grid/columns.sass";
+ @import "~bulma/sass/layout/_all.sass";
+ */
